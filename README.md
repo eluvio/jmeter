@@ -1,3 +1,12 @@
+# Eluvio
+
+Forked from: https://github.com/egaillardon/jmeter
+
+Added:
+* Font packages for X11 Forwarding/GUI to work from the docker
+* ALPN-boot jar/JVM_ARG required for HTTP2 plugin
+* Makefile to make/publish to docker.tecalliance.services
+
 # Docker image for **Apache JMeter**
 
 [![Apache JMeter Logo](https://jmeter.apache.org/images/logo.svg)](https://jmeter.apache.org)
